@@ -1,0 +1,10 @@
+*.code-workspace
+*.lock.hcl
+.terraform
+terraform.*
+*.tfstate.*
+*.zip
+*.nocommit*
+node_modules/
+dist/
+.env
