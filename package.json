@@ -1,0 +1,10 @@
+{
+  "name": "no-gluten.info",
+  "version": "1.0.0",
+  "description": "no-gluten.info website repository",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Lorenzo Tresoldi",
+  "license": "ISC"
+}
